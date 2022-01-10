@@ -16,7 +16,6 @@ public class GitExampleIntegracion {
      */
     public static void main(String[] args) {
         System.out.println("Hola, prueba de git");
-        System.out.println("Hago cambios desde netbeans");
     }
     
 }
