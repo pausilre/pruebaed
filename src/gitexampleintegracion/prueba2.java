@@ -9,14 +9,12 @@ package gitexampleintegracion;
  *
  * @author paula
  */
-public class GitExampleIntegracion {
-
+public class prueba2 {
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola, prueba de git");
-        System.out.println("Hago cambios desde netbeans");
+        System.out.println("Prueba de nuevo commit");
     }
     
 }
